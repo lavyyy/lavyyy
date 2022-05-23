@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm lavy</h1>
 <h3 align="center">🦊 A high school student interested in Computer Science and Cybersecurity</h3>
 
-
 - 🔭 I’m currently working on **a portfolio website**
 
 - 🌱 I’m currently learning **Electron**
