@@ -18,21 +18,7 @@
 I am a High School Senior and Junior Developer interested in full-stack development with a wide range of skills. Since I was about 9 years old I've been intrigued by the world of programming, and ever since I've spent my time learning and building my skills in the field. I’m very passionate about my code and providing a professional experience with all that I work with.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>
 
 
 ## Languages and Tools  
