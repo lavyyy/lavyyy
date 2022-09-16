@@ -41,20 +41,15 @@ I am a High School Senior and Junior Developer interested in full-stack developm
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api?username=lavyyy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: %" />
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lavyyy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>  
 
