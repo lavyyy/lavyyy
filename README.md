@@ -10,6 +10,15 @@ I am a High School Senior and Junior Developer interested in full-stack developm
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lavyyy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!--START_SECTION:waka-->
+```text
+Week: 08 September, 2022 - 15 September, 2022
+
+JavaScript   6 hrs 30 mins   █████████████████▒░░░░░░░   69.27 % 
+TypeScript   2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.57 % 
+CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+```
 <!--END_SECTION:waka-->
 
 ---
