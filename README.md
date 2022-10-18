@@ -11,12 +11,11 @@ I am a High School Senior and Developer with a wide range of skills. Since I was
 ![](https://github-readme-stats.vercel.app/api?username=lavyyy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2022 - 16 October, 2022
+Week: 10 October, 2022 - 17 October, 2022
 
-TypeScript   8 hrs 32 mins   ███████████████████████░░   91.74 % 
-JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript   7 hrs 55 mins   ████████████████████████▒   97.41 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
