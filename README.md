@@ -10,9 +10,13 @@ I am a High School Senior and Developer with a wide range of skills. Since I was
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lavyyy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+TypeScript   3 hrs 10 mins   ██████████████████████▓░░   90.28 %
+JSON         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
