@@ -12,7 +12,12 @@ I am a High School Senior and Developer with a wide range of skills. Since I was
 <!--START_SECTION:waka-->
 
 ```text
-JSON   0 secs          █████████████████████████   100.00 %
+TypeScript   2 hrs 24 mins   ████████████████████▓░░░░   82.48 %
+JSON         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+CSS          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
