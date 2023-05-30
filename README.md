@@ -23,11 +23,11 @@ I'm lavy (pronounced l-ahh-vee). I'm currently a senior in high school with a pa
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 26 mins  ██████████████████████▒░░   89.31 %
-YAML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript   14 hrs 38 mins  ██████████████████████▓░░   91.08 %
+YAML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
