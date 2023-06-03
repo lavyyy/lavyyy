@@ -22,12 +22,12 @@ I'm lavy (pronounced l-ahh-vee). I'm currently a senior in high school with a pa
 [![](https://visitcount.itsvg.in/api?id=lavyyy&icon=0&color=11)](https://visitcount.itsvg.in)
 <!--START_SECTION:waka-->
 
-```text
-TypeScript            12 hrs 23 mins  ████████████████████░░░░░   80.63 %
-Java                  1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-YAML                  34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-JSON                  30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Other                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+```txt
+TypeScript            6 hrs 26 mins   ███████████████████▓░░░░░   78.69 %
+Java                  1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Other                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+JavaScript            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Shell Script          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
