@@ -1,6 +1,6 @@
 # Yo! 🦊☕
 
-I'm lavy (pronounced l-ahh-vee). I'm currently a senior in high school with a passion for computer science and programming. Right now I primarily focus on full-stack web development and doing freelance work part-time. Outside of building projects I also spend time doing content creation and editing. Feel free to send me an email if you want to chat!
+I'm lavy (pronounced l-ahh-vee). I'm currently a college freshman with a passion for computer science and programming. Right now I primarily focus on full-stack web development and doing freelance work part-time. Outside of building projects I also spend time doing content creation and editing. Feel free to send me an email if you want to chat!
 
 
 ## Technologies 🖥️
