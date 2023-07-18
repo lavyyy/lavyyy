@@ -25,11 +25,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 46 mins  ████████████████████▒░░░░   81.68 %
-MDX          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TypeScript   19 hrs 9 mins   ████████████████████░░░░░   80.11 %
+JSON         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+MDX          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+YAML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
