@@ -34,5 +34,3 @@ Protocol Buffer   45 mins         █▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api?username=lavyyy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-
