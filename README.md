@@ -25,11 +25,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```txt
-Java              8 hrs 22 mins   ████████████░░░░░░░░░░░░░   48.37 %
-TypeScript        3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-Python            1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Bash              45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-PHP               39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Java             12 hrs 22 mins  ████████████████▓░░░░░░░░   66.61 %
+TypeScript       3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+Bash             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Ezhil            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
