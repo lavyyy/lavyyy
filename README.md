@@ -25,9 +25,9 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```txt
-Java             12 hrs 22 mins  ████████████████▓░░░░░░░░   66.61 %
+Java             12 hrs 22 mins  ████████████████▓░░░░░░░░   66.59 %
 TypeScript       3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-Bash             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Bash             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 Ezhil            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
