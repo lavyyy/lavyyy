@@ -24,12 +24,12 @@ I'm lavy (pronounced l-ahh-vee). I'm a college student with a passion for comput
 Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript        10 hrs 8 mins   █████████████░░░░░░░░░░░░   51.41 %
-PHP               3 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Java              2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-JSON              1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Python            50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+```rust
+TypeScript        10 hrs 8 mins   >>>>>>>>>>>>>------------   51.41 %
+PHP               3 hrs 52 mins   >>>>>--------------------   19.67 %
+Java              2 hrs 1 min     >>>----------------------   10.23 %
+JSON              1 hr 31 mins    >>-----------------------   07.69 %
+Python            50 mins         >------------------------   04.25 %
 ```
 
 <!--END_SECTION:waka-->
