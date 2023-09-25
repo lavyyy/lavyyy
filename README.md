@@ -6,9 +6,11 @@ I'm lavy (pronounced l-ahh-vee). I'm a college student with a passion for comput
 ## Technologies 🖥️
 
 ### I currently use:
-[![I currently use](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,svelte,aws,emotion,electron,vite,styledcomponents,vercel,figma,github,vscode,mongo,docker,linux,ps,pr,ae&perline=8)](https://skillicons.dev)
+[![I currently use](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,svelte,graphql,apollo,aws,emotion,electron,vite,styledcomponents,vercel,figma,github,vscode,mongo,docker,linux,ps,pr,ae&perline=8)](https://skillicons.dev)
+### I'm currently learning:
+[![I'm learning](https://skillicons.dev/icons?i=rust,vim&perline=8)](https://skillicons.dev)
 ### I'm interested in learning:
-![I want to learn](https://skillicons.dev/icons?i=graphql,apollo,nginx,redis,threejs,supabase,astro&perline=8)
+![I want to learn](https://skillicons.dev/icons?i=redis,threejs,supabase,astro,go&perline=8)
 
 ## Where to find me 🌐
 
