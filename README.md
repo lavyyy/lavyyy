@@ -27,11 +27,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   10 hrs 7 mins   >>>>>>>>>>>>>>>>>--------   68.88 %
-Rust         2 hrs 55 mins   >>>>>--------------------   19.90 %
-Python       33 mins         >------------------------   03.83 %
-YAML         24 mins         >------------------------   02.78 %
-CSV          15 mins         -------------------------   01.78 %
+TypeScript   6 hrs 19 mins   >>>>>>>>>>>>>>>----------   59.14 %
+Python       1 hr 41 mins    >>>>---------------------   15.89 %
+Rust         1 hr 18 mins    >>>----------------------   12.25 %
+CSV          38 mins         >------------------------   05.96 %
+YAML         24 mins         >------------------------   03.82 %
 ```
 
 <!--END_SECTION:waka-->
