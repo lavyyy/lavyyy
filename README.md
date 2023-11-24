@@ -27,11 +27,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   8 hrs           >>>>>>>>>>>--------------   43.79 %
-JavaScript   3 hrs 30 mins   >>>>>--------------------   19.18 %
-CSS          2 hrs 52 mins   >>>>---------------------   15.69 %
-HTML         1 hr 29 mins    >>-----------------------   08.15 %
-Rust         1 hr 8 mins     >>-----------------------   06.28 %
+TypeScript   7 hrs 46 mins   >>>>>>>>>>>--------------   45.40 %
+JavaScript   3 hrs 29 mins   >>>>>--------------------   20.43 %
+CSS          2 hrs 3 mins    >>>----------------------   12.06 %
+Rust         1 hr 8 mins     >>-----------------------   06.70 %
+MDX          1 hr 3 mins     >>-----------------------   06.14 %
 ```
 
 <!--END_SECTION:waka-->
