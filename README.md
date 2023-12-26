@@ -27,11 +27,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   31 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.02 %
-JSON         1 hr 27 mins    >------------------------   04.24 %
-Git Config   17 mins         -------------------------   00.83 %
-MDX          12 mins         -------------------------   00.61 %
-JavaScript   10 mins         -------------------------   00.53 %
+TypeScript   38 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.29 %
+JSON         1 hr 44 mins    >------------------------   04.23 %
+Git Config   17 mins         -------------------------   00.69 %
+MDX          14 mins         -------------------------   00.60 %
+JavaScript   10 mins         -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
