@@ -1,6 +1,6 @@
 # Yo! 🦊☕
 
-I'm lavy (pronounced l-ahh-vee). I'm a college student with a passion for computer science and programming! Right now I primarily focus on full-stack web development and working part-time. Outside of building projects I also spend time doing content creation and editing. Feel free to send me an email if you want to chat!
+I'm lavy (pronounced l-ahh-vee), a full-stack engineer who is always eager to learn new things! Outside of building and maintaining projects I also spend time doing content creation and editing. Feel free to send me an email if you want to chat!
 
 
 ## Technologies 🖥️
