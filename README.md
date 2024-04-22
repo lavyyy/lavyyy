@@ -1,26 +1,33 @@
 # Yo! 🦊☕
 
-I'm lavy (pronounced l-ahh-vee), a full-stack engineer who is always eager to learn new things! Outside of building and maintaining projects I also spend time doing content creation and editing. Feel free to send me an email if you want to chat!
+I'm lavy (pronounced l-ahh-vee), a full-stack engineer, fox lover, and avid learner! Outside of building and maintaining projects I also spend time doing content creation and editing.
 
+## Skills 🖥️
 
-## Technologies 🖥️
+<table>
+  <tr>
+    <tr>
+      <th>Frontend/Backend</th>
+      <th>DB</th>
+      <th>Infra</th>
+      <th>Tools</th>
+    </tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,svelte,graphql,apollo,emotion,electron,vite,styledcomponents,threejs&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,redis&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=aws,terraform,vercel,gcp&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=vscode,vim,ps,pr,ae&perline=8" />
+    </td>
+  </tr>
+</table>
 
-### I currently use:
-[![I currently use](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,svelte,graphql,apollo,aws,emotion,electron,vite,styledcomponents,redis,threejs,vercel,figma,github,vscode,mongo,docker,linux,ps,pr,ae&perline=8)](https://skillicons.dev)
-### I'm currently learning:
-[![I'm learning](https://skillicons.dev/icons?i=rust,vim&perline=8)](https://skillicons.dev)
-### I'm interested in learning:
-![I want to learn](https://skillicons.dev/icons?i=astro,go&perline=8)
-
-## Where to find me 🌐
-
-**Twitter:** [@imlavy_](https://twitter.com/@imlavy_)
-
-**Youtube:** [@imlavy](https://youtube.com/@imlavy)
-
-**Twitch:** [imlavy](https://twitch.tv/imlavy)
-
-## Stats! 📊
+## Here are some stats! 📊
 [![](https://visitcount.itsvg.in/api?id=lavyyy&icon=0&color=11)](https://visitcount.itsvg.in)
 
 Weekly langauge stats. (resets every sunday)
@@ -35,4 +42,3 @@ Java         40 mins         >------------------------   02.35 %
 ```
 
 <!--END_SECTION:waka-->
-
