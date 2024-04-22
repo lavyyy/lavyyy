@@ -27,11 +27,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript    25 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>-----   81.50 %
-C++           2 hrs 6 mins    >>-----------------------   06.88 %
-CMake         1 hr 10 mins    >------------------------   03.82 %
-JSON          53 mins         >------------------------   02.89 %
-Java          40 mins         >------------------------   02.20 %
+TypeScript   23 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>-----   81.66 %
+C++          2 hrs 6 mins    >>-----------------------   07.37 %
+CMake        1 hr 10 mins    >------------------------   04.10 %
+JSON         52 mins         >------------------------   03.05 %
+Java         40 mins         >------------------------   02.35 %
 ```
 
 <!--END_SECTION:waka-->
