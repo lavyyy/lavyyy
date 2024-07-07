@@ -34,11 +34,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   14 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.94 %
-JSON         30 mins         >------------------------   03.19 %
-Bash         5 mins          -------------------------   00.59 %
-Other        5 mins          -------------------------   00.57 %
-Terraform    3 mins          -------------------------   00.41 %
+TypeScript   11 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.73 %
+JSON         29 mins         >------------------------   03.95 %
+Bash         5 mins          -------------------------   00.73 %
+Other        5 mins          -------------------------   00.70 %
+Terraform    3 mins          -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
