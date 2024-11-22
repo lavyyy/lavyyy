@@ -38,11 +38,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript    8 hrs 30 mins   >>>>>>>>>>>>>>>>---------   63.38 %
-Rust          1 hr 29 mins    >>>----------------------   11.13 %
-Astro         1 hr 14 mins    >>-----------------------   09.25 %
-Python        1 hr            >>-----------------------   07.52 %
-JSON          44 mins         >------------------------   05.55 %
+TypeScript    6 hrs 28 mins   >>>>>>>>>>>>>>-----------   57.79 %
+Astro         1 hr 37 mins    >>>>---------------------   14.53 %
+Rust          1 hr 29 mins    >>>----------------------   13.32 %
+Python        1 hr            >>-----------------------   09.00 %
+Image (svg)   13 mins         >------------------------   02.03 %
 ```
 
 <!--END_SECTION:waka-->
