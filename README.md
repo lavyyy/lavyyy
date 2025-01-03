@@ -31,9 +31,6 @@ I'm lavy (pronounced l-ahh-vee)! I'm a full stack engineer and fox enthusiast! I
   </tr>
 </table>
 
-## Here are some stats! 📊
-[![](https://visitcount.itsvg.in/api?id=lavyyy&icon=0&color=11)](https://visitcount.itsvg.in)
-
 Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
