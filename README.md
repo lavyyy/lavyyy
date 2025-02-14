@@ -35,11 +35,11 @@ Weekly langauge stats. (resets every sunday)
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   29 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.39 %
-Go           3 hrs 6 mins    >>-----------------------   09.02 %
-YAML         39 mins         -------------------------   01.89 %
-JSON         22 mins         -------------------------   01.07 %
-Bash         11 mins         -------------------------   00.55 %
+TypeScript        29 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>-----   81.76 %
+Go                3 hrs 6 mins    >>-----------------------   08.57 %
+YAML              1 hr 49 mins    >------------------------   05.05 %
+JSON              51 mins         >------------------------   02.37 %
+TSConfig          13 mins         -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
