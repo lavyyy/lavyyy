@@ -31,7 +31,7 @@ I'm lavy (pronounced l-ahh-vee)! I'm a full stack engineer and fox enthusiast! I
   </tr>
 </table>
 
-Weekly langauge stats. (resets every sunday)
+Weekly langauge stats
 <!--START_SECTION:waka-->
 
 ```rust
