@@ -1,6 +1,6 @@
-# Yo! 🦊☕
+# Hi! 🦊☕
 
-I'm lavy (pronounced l-ahh-vee)! I'm a full stack engineer and fox enthusiast! I build and maintain a variety of projects. Feel free to reach out!
+I'm lavy! I'm a full stack engineer and fox lover :3. I build and maintain a variety of projects. Feel free to reach out!
 
 ## Skills 🖥️
 
