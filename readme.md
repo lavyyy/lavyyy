@@ -19,10 +19,10 @@ I'm lavy! I'm a full stack engineer and fox lover :3. I build and maintain a var
       <img src="https://skillicons.dev/icons?i=react,nextjs,django,svelte,graphql,apollo,emotion,electron,vite,styledcomponents,threejs&perline=8" />
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=mongo,postgres,redis&perline=8" />
-    </td>
-    <td valign="top">
       <img src="https://skillicons.dev/icons?i=terraform,aws,cf,gcp,vercel&perline=8" />
+    </td>  
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,redis&perline=8" />
     </td>
   </tr>
 </table>
