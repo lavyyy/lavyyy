@@ -31,11 +31,11 @@ Weekly langauge stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   4 hrs 14 mins   >>>>>>>>>>>--------------   45.39 %
-HTML         2 hrs 13 mins   >>>>>>-------------------   23.80 %
-SCSS         1 hr 55 mins    >>>>>--------------------   20.54 %
-Twig         37 mins         >>-----------------------   06.69 %
-JavaScript   9 mins          -------------------------   01.77 %
+TypeScript   3 hrs 59 mins   >>>>>>>>>>>--------------   44.26 %
+HTML         2 hrs 13 mins   >>>>>>-------------------   24.64 %
+SCSS         1 hr 55 mins    >>>>>--------------------   21.27 %
+Twig         37 mins         >>-----------------------   06.92 %
+JavaScript   9 mins          -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
