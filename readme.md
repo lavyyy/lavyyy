@@ -27,7 +27,7 @@ I'm lavy! I'm a full stack engineer and fox lover :3. I build and maintain a var
   </tr>
 </table>
 
-Weekly langauge stats
+Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
