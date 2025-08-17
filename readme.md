@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   5 hrs 10 mins   >>>>>>>>>>>>>>>>>>>------   75.82 %
-Svelte       1 hr 16 mins    >>>>>--------------------   18.69 %
-JavaScript   16 mins         >------------------------   03.94 %
-YAML         3 mins          -------------------------   00.79 %
-Markdown     1 min           -------------------------   00.31 %
+TypeScript   10 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>-----   79.48 %
+Svelte       1 hr 16 mins    >>-----------------------   09.42 %
+JavaScript   48 mins         >------------------------   05.97 %
+TOML         17 mins         >------------------------   02.19 %
+JSON         14 mins         -------------------------   01.77 %
 ```
 
 <!--END_SECTION:waka-->
