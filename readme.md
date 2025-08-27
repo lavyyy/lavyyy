@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript   11 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>----   82.49 %
-Go           1 hr 11 mins    >>-----------------------   08.58 %
-Svelte       23 mins         >------------------------   02.82 %
-Bash         17 mins         >------------------------   02.11 %
-Makefile     11 mins         -------------------------   01.34 %
+TypeScript        10 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>----   83.09 %
+Go                1 hr 11 mins    >>-----------------------   09.15 %
+Svelte            23 mins         >------------------------   03.01 %
+Makefile          11 mins         -------------------------   01.43 %
+Markdown          6 mins          -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
