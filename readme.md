@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-Java              11 hrs 39 mins  >>>>>>>>>>>>>------------   51.37 %
-TypeScript        9 hrs 29 mins   >>>>>>>>>>---------------   41.82 %
-Protocol Buffer   38 mins         >------------------------   02.81 %
-JSON              25 mins         -------------------------   01.89 %
-SQL               12 mins         -------------------------   00.95 %
+Java              12 hrs 14 mins  >>>>>>>>>>>>-------------   49.48 %
+TypeScript        10 hrs 56 mins  >>>>>>>>>>>--------------   44.18 %
+Protocol Buffer   38 mins         >------------------------   02.58 %
+JSON              26 mins         -------------------------   01.81 %
+SQL               12 mins         -------------------------   00.87 %
 ```
 
 <!--END_SECTION:waka-->
