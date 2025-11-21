@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript      6 hrs 6 mins    >>>>>>>>>>>>>>-----------   56.83 %
-Objective-C++   1 hr 7 mins     >>>----------------------   10.39 %
-YAML            53 mins         >>-----------------------   08.28 %
-C++             50 mins         >>-----------------------   07.79 %
-Markdown        25 mins         >------------------------   03.88 %
+TypeScript      6 hrs 6 mins    >>>>>>>>>>>>>>-----------   54.43 %
+Objective-C++   1 hr 7 mins     >>-----------------------   09.95 %
+YAML            1 hr 6 mins     >>-----------------------   09.94 %
+C++             50 mins         >>-----------------------   07.46 %
+Markdown        26 mins         >------------------------   03.96 %
 ```
 
 <!--END_SECTION:waka-->
