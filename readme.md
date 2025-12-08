@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript        3 hrs 8 mins    >>>>>>>>>>>>>>>>>>-------   71.44 %
-Java              1 hr 2 mins     >>>>>>-------------------   23.77 %
-Svelte            5 mins          -------------------------   01.96 %
-Java Properties   3 mins          -------------------------   01.19 %
-Bash              2 mins          -------------------------   00.89 %
+TypeScript        3 hrs 8 mins    >>>>>>>>>>>>>>>>>>-------   72.86 %
+Java              1 hr 2 mins     >>>>>>-------------------   24.26 %
+Java Properties   3 mins          -------------------------   01.21 %
+Bash              2 mins          -------------------------   00.91 %
+Groovy            1 min           -------------------------   00.65 %
 ```
 
 <!--END_SECTION:waka-->
