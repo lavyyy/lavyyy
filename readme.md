@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript        5 hrs 29 mins   >>>>>>>>>>>>>>>>---------   65.29 %
-Java              2 hrs 18 mins   >>>>>>>------------------   27.51 %
-Bash              28 mins         >------------------------   05.56 %
-Markdown          2 mins          -------------------------   00.53 %
-textmate          1 min           -------------------------   00.37 %
+TypeScript        6 hrs 19 mins   >>>>>>>>>>>>>>>>---------   64.36 %
+Java              2 hrs 42 mins   >>>>>>>------------------   27.48 %
+Bash              28 mins         >------------------------   04.76 %
+Terraform         4 mins          -------------------------   00.76 %
+Git Config        3 mins          -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
