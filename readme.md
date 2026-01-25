@@ -31,11 +31,11 @@ Weekly language stats
 <!--START_SECTION:waka-->
 
 ```rust
-Java                       10 hrs 39 mins  >>>>>>>>>>>>>------------   53.47 %
-TypeScript                 6 hrs 48 mins   >>>>>>>>>----------------   34.12 %
-JSON                       1 hr 44 mins    >>-----------------------   08.72 %
-Groovy                     10 mins         -------------------------   00.87 %
-Java Properties            8 mins          -------------------------   00.73 %
+Java                       10 hrs 36 mins  >>>>>>>>>>>>>>>>>>>------   77.42 %
+JSON                       1 hr 43 mins    >>>----------------------   12.62 %
+TypeScript                 37 mins         >------------------------   04.57 %
+Groovy                     10 mins         -------------------------   01.26 %
+Java Properties            8 mins          -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->
