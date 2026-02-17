@@ -26,16 +26,3 @@ I'm lavy! I'm a full stack engineer and fox lover :3. I build and maintain a var
     </td>
   </tr>
 </table>
-
-Weekly language stats
-<!--START_SECTION:waka-->
-
-```rust
-TypeScript   6 hrs 36 mins   >>>>>>>>>>>>>>>----------   61.06 %
-Astro        1 hr 43 mins    >>>>---------------------   15.88 %
-JSON         55 mins         >>-----------------------   08.55 %
-Bash         49 mins         >>-----------------------   07.61 %
-YAML         30 mins         >------------------------   04.74 %
-```
-
-<!--END_SECTION:waka-->
